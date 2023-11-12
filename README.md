@@ -6,13 +6,13 @@
 ## 연습문제
 
 이 프로젝트는 프로그래밍 아래의 연습문제를 포함하고 있습니다.
-- [챕터 1: "Hello, World!"](Python%20연습문제/Chapter1/README.md)
-- [챕터 2: 변수와 데이터 타입](Python%20연습문제/Chapter2/README.md)
-- [챕터 3: 조건문과 루프](Python%20연습문제/Chapter3/README.md)
-- [챕터 4: 함수](Python%20연습문제/Chapter4/README.md)
-- [챕터 5: 문자열 다루기](Python%20연습문제/Chapter5/README.md)
-- [챕터 6: 리스트와 딕셔너리](Python%20연습문제/Chapter6/README.md)
-- [챕터 7: 파일 다루기](Python%20연습문제/Chapter7/README.md)
+- [챕터 1: "Hello, World!"](Python%20연습문제/Chapter1)
+- [챕터 2: 변수와 데이터 타입](Python%20연습문제/Chapter2)
+- [챕터 3: 조건문과 루프](Python%20연습문제/Chapter3)
+- [챕터 4: 함수](Python%20연습문제/Chapter4)
+- [챕터 5: 문자열 다루기](Python%20연습문제/Chapter5)
+- [챕터 6: 리스트와 딕셔너리](Python%20연습문제/Chapter6)
+- [챕터 7: 파일 다루기](Python%20연습문제/Chapter7)
 
 각 챕터 폴더에는 해당 챕터의 연습문제와 답안이 포함되어 있습니다. 문제에 도전하고 수정하거나 새로운 문제를 추가하는 것에 환영합니다!
 
